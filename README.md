@@ -44,6 +44,10 @@ http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz
 
 [метка]:http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz
 
+## Ссылка внутри документа
+
+[Пример](#%D0%91%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B5)
+
 # Маркированные списки
 
 Тут может быть текст.
