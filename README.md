@@ -2,7 +2,7 @@
 
 # Картинки!
 
-![Тут должна быть картинка, если она не закрузилась](http://bipbap.ru/krasivye-kartinki/skachat-krasivye-kartinki-na-telefon-besplatno-38-foto.html)
+![Тут должна быть картинка, если она не закрузилась](http://bipbap.ru/wp-content/uploads/2017/04/72fqw2qq3kxh.jpg)
 
 # Простое форматирование
 
