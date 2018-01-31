@@ -40,6 +40,10 @@ http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz
 
 [Boost](http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz) -- классная штука
 
+## [Что-то там][метка] -- но не точно
+
+[метка]:http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz
+
 # Маркированные списки
 
 Тут может быть текст.
