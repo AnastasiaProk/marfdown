@@ -16,6 +16,8 @@ echo "Lol"
 
 ## Подсветка синтаксиса
 
+### Цветной код
+
 ```cpp
 for(int i = 0; i < arr.len(); ++i){
   continue;
@@ -26,6 +28,8 @@ for(int i = 0; i < arr.len(); ++i){
 ```sh
 wget http://ftp.gnu.org/gnu/bison/bison-2.3.tar.gz
 tar -xvzf bison-2.3.tar.gz
+
+echo "Hello"
 ``` 
 
 # Маркированные списки
